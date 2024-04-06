@@ -1,0 +1,126 @@
+body {
+margin: 0;
+color: white;
+text-align: center;
+text-shadow: 2px 2px 4px black;
+font-family: "EB Garamond", serif;
+
+}
+
+
+#hero {
+    background-image: url(images/sarajevo-main.jpeg);
+    object-fit: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 300px;
+    padding-bottom: 200px;
+    border: none;
+    height: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+
+
+#visit {
+    margin-bottom: 0;
+    color: blanchedalmond;
+    margin-top: 0px;
+    background-color: rgba(155, 62, 62, 0.717);
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+#enjoy {
+    color: blanchedalmond;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    background-color: rgba(155, 62, 62, 0.717);
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.todo {
+    padding-top: 1px;
+    padding-bottom: 30px;
+    margin-bottom: 0px;
+    max-height: 370px;
+    color: rgb(44, 43, 42);
+    text-shadow: 0 0 0;
+    background-image: linear-gradient(#5396a4, #00d4ff);
+}
+
+.text {
+    display: flex; 
+    justify-content: space-evenly;
+    flex-direction: row;
+    text-align: center;
+    color: rgb(44, 43, 42);
+
+}
+.visit {
+    max-width: 180px;
+    max-height: px;
+   
+
+}
+.sebilj {
+    width: 150px;
+    border-radius: 50px;
+}
+
+.food {
+    max-width: 180px;
+    max-height: px;
+    
+}
+.cevapi {
+    width: 150px;
+    border-radius: 50px;
+   }
+.history {
+    max-width: 180px;
+    max-height: px;
+    
+}
+.atentat {
+    width: 150px;
+    border-radius: 50px;
+    max-height: 110px;
+   }
+
+#guide {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 300px;
+    text-align: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(112, 170, 220);
+    padding: 10px;
+    border-radius: 20px;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    margin-top: 20px;
+    
+   
+}
+
+.pic{
+   width: 150px;
+   border-radius: 50%;
+
+}
+
+
+
+
